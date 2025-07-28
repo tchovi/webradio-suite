@@ -1,1 +1,1 @@
-# WebRadio Suite\n\nSelf-hosted web radio management tool with React frontend, FastAPI backend, and SQLite database.
+# WebRadio Suite Self-hosted web radio management tool with React frontend, FastAPI backend, and SQLite database.
